@@ -9,7 +9,7 @@ ckey="ypKbW2x72jI3BEscXGI2HWgUY"
 csecret="sHYMr8quVKYYOo1xWzVJP8Mbzdp7mqNxphedmlboHgvC9GBP08"
 atoken="1295313636-xiqgxJn6bAMYLf5pgoDdjZpI6SdNAXCoIGBTM3W"
 asecret="lPN6tNWt2dMF4HuFVfg6gxivNXTwYnquITFY5I8Fr1rDq"
-print("hi")
+
 class listener(StreamListener):
 
     def on_data(self, data):
